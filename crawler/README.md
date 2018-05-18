@@ -1,4 +1,4 @@
 
-2.任意のディレクトリ内にphpQueryパッケージをインストールする<br>
+1.ディレクトリ内にphpQueryパッケージをインストールする<br>
 composer self-update
 composer require electrolinux/phpquery
